@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currenly working my website on Gitlab Pages.
+I'm currenly working my website on **[Gitlab Pages](https://gitlab.com/byepw/byepw.gitlab.io)**.
